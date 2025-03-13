@@ -46,38 +46,8 @@ $ ./SimpleCalculator
 2. Press the `+` button to indicate addition.
 3. Press `=` to compute and display the result.
 
-## Files Overview
 
-```
-├── src/
-│   ├── main.cpp         # Entry point of the application
-│   ├── calculator.h     # Calculator class declaration
-│   ├── calculator.cpp   # Calculator class implementation
-│
-├── qml/
-│   ├── main.qml         # QML file defining UI and logic
-│
-├── CMakeLists.txt       # CMake build script
-└── README.md            # Project documentation
-```
 
-## Future Improvements
 
-- Implement subtraction, multiplication, and division.
-- Enhance UI with a better layout and animations.
-- Add support for keyboard input.
 
-## Contributing
-
-This project welcomes contributions! To contribute:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch`
-3. Make your changes and commit them: `git commit -m 'Added new feature'`
-4. Push to the branch: `git push origin feature-branch`
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
 

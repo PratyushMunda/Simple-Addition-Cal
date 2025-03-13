@@ -34,6 +34,8 @@ $ ./SimpleCalculator
 
 ## Features
 
+![image alt](https://github.com/PratyushMunda/Simple-Addition-Cal/blob/54fda4a1a2b27a8fbf60b804f6def106767d2279/SnapShot.png)
+
 - **Button-based input**: Clickable buttons for number entry.
 - **Basic arithmetic**: Addition functionality.
 - **User-friendly UI**: Designed with a responsive and clear interface using QML.
